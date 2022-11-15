@@ -2,4 +2,4 @@
 
 I spent two days making personal site, so better read about me there 😅
 
-[olegwock.github.io](https://olegwock.github.io/)
+[sinja.io](https://sinja.io/)
