@@ -8,4 +8,4 @@ I also write about design and engineering on my [blog](https://sinja.io/). My fa
 
 My passion project is [Anori](https://github.com/OlegWock/anori) — a customizable new tab browser extension — which I took from idea to an established project with 35k+ users.
 
-And here are some of my other projects that I found fun or interesting 👇🏻
+And here are some of other projects that I made (or contributed to) and found fun or interesting 👇🏻
